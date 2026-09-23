@@ -28,11 +28,6 @@
         "spacing": 1
       },
       {
-        "type": 14,
-        "divider": true,
-        "spacing": 1
-      },
-      {
         "type": 1,
         "components": [
           {
@@ -42,7 +37,23 @@
             "emoji": null,
             "disabled": false,
             "url": "https://modrinth.com/server/islanders-mc"
-          }
+          },
+          {
+            "type": 2,
+            "style": 5,
+            "label": "Youtube",
+            "emoji": null,
+            "disabled": false,
+            "url": "https://youtube.com/@islandersmc"
+          },
+          {
+            "type": 2,
+            "style": 5,
+            "label": "Bluesky",
+            "emoji": null,
+            "disabled": false,
+            "url": "https://bsky.app/profile/islandersmc.net"
+          },
         ]
       }
     ]
