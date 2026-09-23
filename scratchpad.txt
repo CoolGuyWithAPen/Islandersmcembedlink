@@ -21,7 +21,7 @@ Here I will put the component for the discord text
         "components": [
           {
             "type": 10,
-            "content": "# Islanders MC\nJoin please”
+            "content": "# Islanders MC\nJoin please"
           }
         ]
       },
