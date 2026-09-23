@@ -1,19 +1,5 @@
 Here I will put the component for the discord text
 
-{
-  “components”: [
-    {
-      “type”: 17,
-      “accent_color”: null,
-      “spoiler”: false,
-      “components”: [
-        “type”: 
-      ]
-    }
-  ]
-}
-
-
 
 {
   "component": {
@@ -26,8 +12,8 @@ Here I will put the component for the discord text
         "accessory": {
           "type": 11,
           "media": {
-            "url": "https://runkang10.is-a.dev/logo-square.webp",
-            "proxy_url": "https://runkang10.is-a.dev/logo-square.webp"
+            "url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.islandersmc.net%2Fimg%2Flogo.png&f=1&nofb=1&ipt=1126a01f902215f2c188468d8480b97db078bf24866dfe73e6e9a5eb3df18007",
+            "proxy_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.islandersmc.net%2Fimg%2Flogo.png&f=1&nofb=1&ipt=1126a01f902215f2c188468d8480b97db078bf24866dfe73e6e9a5eb3df18007"
           },
           "description": null,
           "spoiler": false
@@ -35,7 +21,7 @@ Here I will put the component for the discord text
         "components": [
           {
             "type": 10,
-            "content": "# Hi!, I'm Runkang10\nA carbon developer... Don't even know what else to put :/"
+            "content": "# Islanders MC\nJoin please”
           }
         ]
       },
@@ -43,10 +29,6 @@ Here I will put the component for the discord text
         "type": 14,
         "divider": true,
         "spacing": 1
-      },
-      {
-        "type": 10,
-        "content": "## Projects\n- [AtomicCrash](https://modrinth.com/project/atomiccrash)\n- [FixedGameMode](https://modrinth.com/project/fixedgamemode)"
       },
       {
         "type": 14,
@@ -59,26 +41,10 @@ Here I will put the component for the discord text
           {
             "type": 2,
             "style": 5,
-            "label": "Portfolio",
-            "emoji": null,
-            "disabled": false,
-            "url": "https://runkang10.is-a.dev"
-          },
-          {
-            "type": 2,
-            "style": 5,
-            "label": "GitHub",
-            "emoji": null,
-            "disabled": false,
-            "url": "https://github.com/Runkang10"
-          },
-          {
-            "type": 2,
-            "style": 5,
             "label": "Modrinth",
             "emoji": null,
             "disabled": false,
-            "url": "https://modrinth.com/user/Runkang10"
+            "url": "https://modrinth.com/server/islanders-mc"
           }
         ]
       }
