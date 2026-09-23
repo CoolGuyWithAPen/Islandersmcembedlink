@@ -1,0 +1,87 @@
+Here I will put the component for the discord text
+
+{
+  “components”: [
+    {
+      “type”: 17,
+      “accent_color”: null,
+      “spoiler”: false,
+      “components”: [
+        “type”: 
+      ]
+    }
+  ]
+}
+
+
+
+{
+  "component": {
+    "type": 17,
+    "accent_color": null,
+    "spoiler": false,
+    "components": [
+      {
+        "type": 9,
+        "accessory": {
+          "type": 11,
+          "media": {
+            "url": "https://runkang10.is-a.dev/logo-square.webp",
+            "proxy_url": "https://runkang10.is-a.dev/logo-square.webp"
+          },
+          "description": null,
+          "spoiler": false
+        },
+        "components": [
+          {
+            "type": 10,
+            "content": "# Hi!, I'm Runkang10\nA carbon developer... Don't even know what else to put :/"
+          }
+        ]
+      },
+      {
+        "type": 14,
+        "divider": true,
+        "spacing": 1
+      },
+      {
+        "type": 10,
+        "content": "## Projects\n- [AtomicCrash](https://modrinth.com/project/atomiccrash)\n- [FixedGameMode](https://modrinth.com/project/fixedgamemode)"
+      },
+      {
+        "type": 14,
+        "divider": true,
+        "spacing": 1
+      },
+      {
+        "type": 1,
+        "components": [
+          {
+            "type": 2,
+            "style": 5,
+            "label": "Portfolio",
+            "emoji": null,
+            "disabled": false,
+            "url": "https://runkang10.is-a.dev"
+          },
+          {
+            "type": 2,
+            "style": 5,
+            "label": "GitHub",
+            "emoji": null,
+            "disabled": false,
+            "url": "https://github.com/Runkang10"
+          },
+          {
+            "type": 2,
+            "style": 5,
+            "label": "Modrinth",
+            "emoji": null,
+            "disabled": false,
+            "url": "https://modrinth.com/user/Runkang10"
+          }
+        ]
+      }
+    ]
+  }
+}
